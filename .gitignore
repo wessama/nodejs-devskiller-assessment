@@ -29,6 +29,8 @@ nbactions.xml
 nbbuild/
 nbdist/
 nbproject/private/
+### PhpStorm
+.idea
 ### VisualStudioCode ###
 .vscode/*
 !.vscode/settings.json
